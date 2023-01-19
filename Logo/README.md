@@ -1,1 +1,1 @@
-These are the approved versions of the Kairoi logo:
+![Kairoi's logo](https://github.com/KairoiAI/Branding/blob/main/Logo/Kairoi-logo-colour-on-transparent-RGB.png)
