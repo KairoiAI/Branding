@@ -7,6 +7,10 @@ These are used at the top of pages and blog posts, as backgrounds to titles.
 * **Size:** 1920 x 640 pixels
 * **Colour:** For pages, they have been made black and white; for blog posts, black is added for a darker shade that contrasts better with the title in white
 
+## Blog thumbnails
+These are used for displaying the image above the post's excerpt on different pages.
+* **Size:** 480 x 360 pixels
+
 ## Attribution
 
 Below, each image is listed with relevant information and adequate attribution.
